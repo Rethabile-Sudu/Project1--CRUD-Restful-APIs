@@ -40,6 +40,7 @@ The report can assist in identifying potential areas for enhancement and optimiz
 The report ensures that all stakeholders have a clear understanding of the RESTful API's design, functionality, and management, enabling them to effectively use and maintain the system in alignment with the project's goals.
 
 Reference list:
+
 Anderson, D., 2020. Building RESTful Web Services with ASP.NET Core 3.1. 2nd ed. Apress.
 
 Amazon Web Services, 2021. Amazon API Gateway Developer Guide. [online] Available at: https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html [Accessed 11 Aug. 2024].
