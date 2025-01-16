@@ -1,4 +1,4 @@
-# CMPG-323-Project2-35537205
+
 The NWU Tech Trends project involves developing a CRUD (Create, Read, Update, Delete) RESTful API designed to interact with a database storing basic telemetry data. This API will enable seamless communication between different systems, environments, interfaces, and applications by providing standardized HTTP endpoints to perform operations on the stored data.
 
 Key Components of the Project:
